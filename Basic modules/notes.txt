@@ -1,0 +1,14 @@
+when a variable which is note meant to be edited later or messed with name it in ALL_CAPITAL_AND_WITH_UNDERSCORE
+make the code in functions for reusability and less messy code
+always try to make functions with return value
+name parameters a bit different from global variables for better readability
+try to encapsulate program in functions
+try not to use global variables rather when creating functions put them in.try to make functions less dependent on each other 
+and make then rather work on 1 specific task
+
+try to make code compact using inbuilt functions and librarys
+
+write
+if __name__ == "__main__":
+    #function calls
+    function()

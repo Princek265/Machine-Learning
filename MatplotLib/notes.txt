@@ -1,0 +1,18 @@
+Use of functions in Matplotlib
+
+
+plt.plot - Line graph
+plt.bar - bar graph
+plt.hist - histogram
+plt.scatter - scatter plot
+plt.pie - pie chart
+plt.boxplot - box plot
+plt.title - title
+plt.xlabel - x-axis label
+plt.ylabel - y-axis label
+plt.legend - legend
+plt.grid - grid
+plt.savefig - save figure
+plt.show - display figure
+plt.xlim - x-axis limits
+plt.ylim - y-axis limits
