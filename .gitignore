@@ -1,0 +1,35 @@
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# data files (optional — prevents huge commits)
+data/
+datasets/
+
+# model weights
+models/
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+
+# logs
+logs/
+wandb/
+tensorboard/
+
+# OS junk
+.DS_Store
+Thumbs.db
